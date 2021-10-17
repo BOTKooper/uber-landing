@@ -1,0 +1,37 @@
+header {
+  background-color: #212121;
+}
+
+nav .vertical_hr {
+  border-left: 2px solid #000;
+  border-right: 0;
+  border-top: 0;
+  border-bottom: 0;
+  border-style: dotted;
+  height: 31px;
+}
+
+nav .nav_item {
+  color: #fff;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 20px;
+  margin-bottom: 0 !important;
+}
+
+/* @media (min-width: 768px) {
+  nav #md {
+    margin: 0 20px;
+  }
+  nav #xs {
+    display:none;
+  }
+}
+
+@media (max-width: 768px) {
+  nav #md {
+    display: none !important;
+  }
+} */
