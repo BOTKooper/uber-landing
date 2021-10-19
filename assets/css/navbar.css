@@ -11,8 +11,14 @@ nav .vertical_hr {
   height: 31px;
 }
 
+nav .nav-item {
+  color: #fff;
+  text-decoration: none;
+}
+
 nav .nav_item {
   color: #fff;
+  text-decoration: none;
 }
 
 nav ul {
@@ -21,17 +27,8 @@ nav ul {
   margin-bottom: 0 !important;
 }
 
-/* @media (min-width: 768px) {
-  nav #md {
-    margin: 0 20px;
-  }
-  nav #xs {
-    display:none;
-  }
+.hidden-one {
+  height: 56px;
 }
 
-@media (max-width: 768px) {
-  nav #md {
-    display: none !important;
-  }
-} */
+
